@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"package/mylib"
-	"package/mylib/sublib"
+	"package/1-package/mylib"
+	"package/1-package/mylib/sublib"
 )
 
 func main() {
